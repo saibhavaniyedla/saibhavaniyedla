@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Sai%20Bhavani%20Yedla&fontSize=50&textBg=false&descAlignY=50" />
 </p>
-<h1 align="center">Hi 👋, I'm Sai Bhavani Yedla</h1>
+<h1 align="center">Hi, I'm Sai Bhavani Yedla</h1>
 <h3 align="center">CSE (AIML) Student | AI | ML | Web Learner</h3>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=CSE+(AI+%26+ML)+Student;AI+%7C+ML+Enthusiast;Web+%7C+Python+Learner;Future+Software+Engineer;Always+Learning+New+Things" />
@@ -72,7 +72,7 @@
 
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/saibhavaniyedla">
+  <a href="https://www.linkedin.com/in/sai-bhavani-yedla">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/saibhavaniyedla">
