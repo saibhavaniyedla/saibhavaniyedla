@@ -41,10 +41,16 @@
 ---
 ### 📊 GitHub Stats
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saibhavaniyedla&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saibhavaniyedla&theme=tokyonight)
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saibhavaniyedla&theme=tokyonight" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saibhavaniyedla&theme=tokyonight" height="180"/>
+    </td>
+  </tr>
+</table>
 
 ### 🔥 GitHub Streak
 
