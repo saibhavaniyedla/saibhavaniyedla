@@ -52,6 +52,8 @@
     </td>
   </tr>
 </table>
+---
+
 ### 🔥 GitHub Streak
 
 <p align="center">
