@@ -41,8 +41,6 @@
 ---
 ### 📊 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=saibhavaniyedla&theme=tokyonight)
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saibhavaniyedla&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saibhavaniyedla&theme=tokyonight)
