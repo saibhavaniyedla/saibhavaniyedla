@@ -39,19 +39,13 @@
 - 🩸 Blood Donation Management System  
 
 ---
-
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=saibhavaniyedla&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibhavaniyedla&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+![Streak](https://streak-stats.demolab.com?user=saibhavaniyedla&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saibhavaniyedla&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saibhavaniyedla&theme=tokyonight)
 ---
 
 ### 🔥 GitHub Streak
