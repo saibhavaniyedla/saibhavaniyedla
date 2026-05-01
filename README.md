@@ -42,19 +42,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=saibhavaniyedla&show_icons=true&theme=tokyonight" height="195" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibhavaniyedla&layout=compact&theme=tokyonight" height="195" />
-      </td>
-    </tr>
-  </table>
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=saibhavaniyedla&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibhavaniyedla&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 ### 🔥 GitHub Streak
 
 <p align="center">
