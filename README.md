@@ -34,7 +34,7 @@
 ## 🚀 Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,c++,c" />
+<img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,cpp,c" />
 </p>
 
 ---
