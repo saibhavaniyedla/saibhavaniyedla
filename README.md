@@ -33,6 +33,8 @@
 
 ## 👩‍💻 About Me
 
+<img align="right" alt="AI ML Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ```yaml
 name: Sai Bhavani Yedla
 role: CSE (AIML) Student
