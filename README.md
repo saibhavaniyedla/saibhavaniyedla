@@ -33,7 +33,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="AI ML Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="AI ML Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 name: Sai Bhavani Yedla
