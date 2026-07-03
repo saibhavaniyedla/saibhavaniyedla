@@ -33,7 +33,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="AI ML Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="AI ML Coding" width="464" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 name: Sai Bhavani Yedla
@@ -132,9 +132,6 @@ A smart chatbot project designed to handle customer support queries using AI too
 **Status:** Completed
 
 </td>
-<td width="50%">
-
-</td>
 </tr>
 </table>
 
@@ -173,8 +170,7 @@ A smart chatbot project designed to handle customer support queries using AI too
   <img src="https://img.shields.io/badge/Machine%20Learning-00C9FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web%20Development-00FF7F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Databases-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA%20in%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
+  </p>
 
 ---
 
