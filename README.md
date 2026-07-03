@@ -24,19 +24,40 @@
 - 🚀 Building real-world projects.
 
 ---
+## 🔭 Currently Working On
+
+- DSA practice using C++.
+- AI/ML resume projects.
+- Full Stack web applications.
+---
 
 ## 🚀 Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,java,python,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,c++,c" />
 </p>
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-- 🍎 Fruit Ripeness Prediction using Sensors & ML  
-- 🩸 Blood Donation Management System  
+### 🍎 Fruit Ripeness Prediction using Sensors & ML
+A machine learning project that predicts whether a fruit is naturally or chemically ripened using sensor-based data.
+
+**Tech Stack:** Python, Machine Learning, Sensors, HTML/CSS  
+**Status:** Completed / Improving
+
+### 🩸 Blood Donation Management System
+A web application where donors can register and patients can request blood based on matching blood groups.
+
+**Tech Stack:** HTML, CSS, JavaScript, Database  
+**Status:** Completed / Improving
+
+### 🤖 AI Customer Support Chatbot
+A smart chatbot project to handle customer support queries using AI tools.
+
+**Tech Stack:** Python, AI Tools  
+**Status:** In Progress
 
 ---
 ### 📊 GitHub Stats
