@@ -15,13 +15,13 @@
 ## 💡 Quote
 
 > Keep Learning • Keep Building • Keep Growing 🚀
-## 🙋‍♀️ About Me
+## 👩‍💻 About Me
 
-- 🎓 Branch: CSE (AIML)
-- 🏫 Student
-- 💻 Skills: HTML, CSS, Java, Python, SQL
-- 🤖 Interested in AI, ML, SQL
-- 🔬 Working on ML & Web Projects
+- 🎓 CSE (AIML) Student.
+- 🌱 Currently learning DSA in C++, AI/ML, and Full Stack Development.
+- 💻 Skills: Python, Java, C++, SQL, HTML, CSS, C.
+- 🤖 Interested in AI, Machine Learning, Web Development, and Databases.
+- 🚀 Building real-world projects.
 
 ---
 
