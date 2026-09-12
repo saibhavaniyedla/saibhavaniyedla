@@ -214,16 +214,6 @@ Currently working on more AI/ML, full-stack, and real-world problem-solving proj
 
 ---
 
-## 🌱 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saibhavaniyedla&theme=tokyo-night&hide_border=true"
-    alt="Sai Bhavani's GitHub Activity Graph"
-  />
-</p>
----
-
 ## ⚡ Interests
 
 <p align="center">
@@ -232,6 +222,15 @@ Currently working on more AI/ML, full-stack, and real-world problem-solving proj
   <img src="https://img.shields.io/badge/Web%20Development-00FF7F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Databases-FF6B6B?style=for-the-badge" />
   </p>
+
+---
+## 🤝 Let's Connect & Collaborate
+
+- 💡 Open to **AI/ML project collaborations**
+- 🤖 Interested in **AI, Machine Learning & NLP**
+- 🌐 Interested in **open-source contributions**
+- 🚀 Always open to **hackathons and innovative projects**
+- 📬 Reach me at **saibhavaniyedla35@gmail.com**
 
 ---
 
