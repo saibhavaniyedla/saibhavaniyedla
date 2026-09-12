@@ -217,7 +217,10 @@ Currently working on more AI/ML, full-stack, and real-world problem-solving proj
 ## 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibhavaniyedla&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saibhavaniyedla&theme=tokyo-night&hide_border=true"
+    alt="Sai Bhavani's GitHub Activity Graph"
+  />
 </p>
 ---
 
