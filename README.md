@@ -7,7 +7,19 @@
 <h1 align="center">Hi 👋, I'm Sai Bhavani Yedla</h1>
 
 <h3 align="center">
-  CSE (AIML) Student | AI/ML Enthusiast | Web Development Learner
+  CSE (AIML) Student @ CBIT Hyderabad | AI/ML Enthusiast | Web Development Learner
+</h3>
+
+<h3 align="center">
+  Machine Learning | Python
+</h3>
+
+<h3 align="center">
+  Building Real World Solutions 
+</h3>
+
+<h3 align="center">
+  Graduating in 2028 | Open to Oppurtunities 
 </h3>
 
 <p align="center">
