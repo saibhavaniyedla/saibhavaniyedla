@@ -74,7 +74,7 @@ goal: Build real-world projects
 ### 🌐 Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,reactjs,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ajax,bootstrap" />
 </p>
 
 ### 🤖 AI/ML
