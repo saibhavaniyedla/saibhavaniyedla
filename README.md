@@ -1,19 +1,22 @@
 <!-- AI/ML GitHub Profile README -->
 
-<!-- AI/ML GitHub Profile README -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00C9FF,100:00FF7F&height=230&section=header&text=Sai%20Bhavani%20Yedla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" />
+</p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00C9FF,100:00FF7F&height=230&section=header&text=Sai%20Bhavani%20Yedla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" /> </p>
+<h1 align="center">
+  Hi 👋, I'm Sai Bhavani Yedla
+</h1>
 
-<h1 align="center">Hi 👋, I'm Sai Bhavani Yedla</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student+%40+CBIT+Hyderabad;AI%2FML+Enthusiast+%7C+Python+%7C+Machine+Learning;DSA+in+C%2B%2B+%7C+SQL+%7C+Web+Development;Building+Real-World+AI+%26+Software+Projects;Graduating+in+2028+%7C+Open+to+Opportunities&repeat=true" />
+</p>
 
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student+%40+CBIT+Hyderabad+%7C+AI%2FML+Enthusiast+%7C+Web+Development+Learner;Machine+Learning+%7C+Python;Building+Real+World+Solutions;Graduating+in+2028+%7C+Open+to+Opportunities&repeat=true" /> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saibhavaniyedla&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/saibhavaniyedla?label=Followers&style=for-the-badge&color=00C9FF" /> <img src="https://img.shields.io/github/stars/saibhavaniyedla?label=Stars&style=for-the-badge&color=00FF7F" /> </p>
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=DSA+in+C%2B%2B;Python+%7C+SQL+%7C+Web+Learner;Building+Real-World+Projects;Future+Software+Engineer" /> </p>
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saibhavaniyedla&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/saibhavaniyedla?label=Followers&style=for-the-badge&color=00C9FF" />
+  <img src="https://img.shields.io/github/stars/saibhavaniyedla?label=Stars&style=for-the-badge&color=00FF7F" />
+</p>
 <!-- Snake Animation -->
 
 
