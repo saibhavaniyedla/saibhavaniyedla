@@ -224,6 +224,16 @@ Currently working on more AI/ML, full-stack, and real-world problem-solving proj
   </p>
 
 ---
+
+## 📚 Focus Areas
+
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+- SQL
+- C++ Data Structures and Algorithms
+- Python Projects
+---
 ## 🤝 Let's Connect & Collaborate
 
 - 💡 Open to **AI/ML project collaborations**
@@ -244,16 +254,6 @@ Currently working on more AI/ML, full-stack, and real-world problem-solving proj
   </a>
 </p>
 
----
-
-## 📚 Focus Areas
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- SQL
-- C++ Data Structures and Algorithms
-- Python Projects
 ---
 
 ## 💬 Developer Quote
