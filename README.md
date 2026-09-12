@@ -89,7 +89,9 @@ goal: Build real-world projects
 ### 🗄️ Databases & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 </p>
 
 ---
