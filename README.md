@@ -6,17 +6,15 @@
 
 <h1 align="center">Hi 👋, I'm Sai Bhavani Yedla</h1>
 
-<!-- ONE-BY-ONE SLIDING INTRO -->
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student+%40+CBIT+Hyderabad+%7C+AI%2FML+Enthusiast+%7C+Web+Development+Learner;Machine+Learning+%7C+Python;Building+Real+World+Solutions;Graduating+in+2028+%7C+Open+to+Opportunities&repeat=true" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saibhavaniyedla&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/saibhavaniyedla?label=Followers&style=for-the-badge&color=00C9FF" /> <img src="https://img.shields.io/github/stars/saibhavaniyedla?label=Stars&style=for-the-badge&color=00FF7F" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=CSE+(AI+%26+ML)+Student;AI+%7C+ML+Enthusiast;DSA+in+C%2B%2B;Python+%7C+SQL+%7C+Web+Learner;Building+Real-World+Projects;Future+Software+Engineer" /> </p>
+
 
 <!-- Snake Animation -->
 
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saibhavaniyedla/saibhavaniyedla/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saibhavaniyedla/saibhavaniyedla/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/saibhavaniyedla/saibhavaniyedla/output/github-contribution-grid-snake-dark.svg" /> </picture> </p>
-<!-- Snake Animation -->
-<!-- Note: Snake animation will appear after GitHub Action runs successfully -->
 
 <p align="center">
   <picture>
