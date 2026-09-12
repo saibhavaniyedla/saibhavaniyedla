@@ -91,44 +91,101 @@ goal: Build real-world projects
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🍎 Fruit Ripeness Prediction using Sensors & ML
 
 A machine learning project that predicts whether a fruit is naturally or chemically ripened using sensor-based data.
 
-**Tech Stack:** Python, Machine Learning, Sensors, HTML/CSS  
-**Status:** Completed.
+**Technologies:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square">
+<img src="https://img.shields.io/badge/Sensors-00A98F?style=flat-square">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+
+- 🧠 Sensor-based fruit classification
+- 🍎 Natural vs chemically ripened detection
+- 📊 Machine learning prediction
+- 🌐 Simple web interface
+
+**Status:** ✅ Completed
 
 </td>
+
 <td width="50%">
 
 ### 🩸 Blood Donation Management System
 
 A web application where donors can register and patients can request blood based on matching blood groups.
 
-**Tech Stack:** HTML, CSS, JavaScript, Database  
-**Status:** Completed.
+**Technologies:**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Database-4479A1?style=flat-square">
+
+- 🩸 Donor registration
+- 🏥 Patient blood requests
+- 🔍 Blood group matching
+- 📋 Donor and patient management
+
+**Status:** ✅ Completed
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 🤖 AI Customer Support Chatbot (Basic)
+### 🤖 AI Customer Support Chatbot
 
-A smart chatbot project designed to handle customer support queries using AI tools.
+An AI-powered chatbot designed to handle customer support queries and provide automated responses.
 
-**Tech Stack:** Python, AI Tools, DiaglogFlow
-**Status:** Completed
+**Technologies:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white">
+<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=flat-square">
+<img src="https://img.shields.io/badge/Web-00C9FF?style=flat-square">
+
+- 💬 Automated customer support
+- 🧠 AI-based responses
+- 🔗 Dialogflow integration
+- 🌐 Web-based chatbot
+
+**Status:** ✅ Completed
 
 </td>
+
+<td width="50%">
+
+### 🚀 More Projects Coming Soon
+
+Currently working on more AI/ML, full-stack, and real-world problem-solving projects.
+
+**Focus Areas:**  
+<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=flat-square">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- 🌐 Full Stack Development
+- 🧩 Real-World Problem Solving
+
+**Status:** 🔥 Building
+
+</td>
+
 </tr>
 </table>
 
