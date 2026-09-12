@@ -232,21 +232,6 @@ Currently working on more AI/ML, full-stack, and real-world problem-solving proj
 - 🚀 Always open to **hackathons and innovative projects**
 - 📬 Reach me at **saibhavaniyedla35@gmail.com**
 
----
-
-## 📚 Focus Areas
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- SQL
-- C++ Data Structures and Algorithms
-- Python Projects
-
----
-
-## 🤝 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-bhavani-yedla">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -259,6 +244,16 @@ Currently working on more AI/ML, full-stack, and real-world problem-solving proj
   </a>
 </p>
 
+---
+
+## 📚 Focus Areas
+
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+- SQL
+- C++ Data Structures and Algorithms
+- Python Projects
 ---
 
 ## 💬 Developer Quote
