@@ -12,7 +12,6 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
@@ -24,6 +23,26 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Lighten empty boxes in dark SVG
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          p = Path("dist/github-contribution-grid-snake-dark.svg")
+          svg = p.read_text()
+
+          # Replace the darkest empty-cell fill with a visible gray.
+          svg = re.sub(
+              r'fill="#161b22"',
+              'fill="#30363d"',
+              svg,
+              flags=re.IGNORECASE
+          )
+
+          p.write_text(svg)
+          PY
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
